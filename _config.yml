@@ -1,0 +1,27 @@
+title: Umar Faruk Abdullahi
+baseurl: "/"
+url: "https://farouqu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+social:
+  name: Umar Faruk Abdullahi
+  links:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ufakz
+    - title: github
+      url: https://github.com/farouqu
+    - title: email
+      url: mailto:contactumarfaruk@gmail.com
+    - title: twitter
+      url: https://twitter.com/ufakz
+    - title: substack
+      url: https://substack.com/@ufakz
+
+# Build settings
+plugins:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _scss/
+  style: compressed
+
+exclude:
+  - README.md

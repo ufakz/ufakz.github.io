@@ -1,0 +1,53 @@
+- title: Parkinome
+  description: Using omics data in search for Parkinson's disease biomarkers.
+  year: 2024
+  category: ML, DL, Bioinformatics
+  link: ''
+  preview: /assets/img/parkinome/thumbnail.png
+  color: "#00FFFF"
+  url: "https://drive.google.com/file/d/1ncHG1qDbgwYZAxP5vrEd_smEXD9zppzY/view?usp=drive_link"
+
+- title: Bayani
+  description: An LLM/RAG based application for chatting with PDF documents.
+  year: 2024
+  category: LLMs, Deep Learning
+  link: ''
+  preview: /assets/img/bayani/thumbnail.png
+  color: "#6C5DD3"
+  url: "https://bayani.streamlit.app/"
+
+- title: Cosmic Calc
+  description: Calculation of cosmic dark matter between galaxies.
+  year: 2023
+  category: Parallel & GPU Programming
+  link: ''
+  preview: /assets/img/cosmicalc/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/farouqu/cosmic-calc"
+
+- title: Udagram
+  description: A cloud-native online image sharing app.
+  year: 2022
+  category: Web & Cloud Development
+  link: ''
+  preview: /assets/img/udagram/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/farouqu/udagram-project"
+
+- title: Afriiconn
+  description: A logistics marketplace for truckers and customers.
+  year: 2021
+  category: Web Development
+  link: ''
+  preview: /assets/img/afriiconn/thumbnail.png
+  color: "#707070"
+  url: "https://afriiconn.netlify.app/"
+
+- title: Glacier
+  description: A minimal desktop web browser.
+  year: 2020
+  category: Desktop App Development
+  link: ''
+  preview: /assets/img/glacier/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/farouqu/glacier-browser"
