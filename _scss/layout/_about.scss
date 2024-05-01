@@ -8,7 +8,16 @@
 }
 .split-right {
     flex: 30%;
+    height: 74vh;
+    overflow-y: auto;
+    scrollbar-width: thin; /* For Firefox */
+    scrollbar-color: #268bd2 #fff; /* For Firefox */
 }
+
+.split-right::-webkit-scrollbar {
+    width: 8px;
+}
+
 .news-item {
     margin-bottom: 8px;
     border-bottom: 1px solid #ccc;
