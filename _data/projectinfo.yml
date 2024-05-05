@@ -16,6 +16,33 @@
   color: "#6C5DD3"
   url: "https://bayani.streamlit.app/"
 
+- title: Semantic Seg. w/Fusion
+  description: Fusion of RGB & depth images for semantic segmentation.
+  year: 2024
+  category: Computer Vision, Deep Learning
+  link: ''
+  preview: /assets/img/fusion/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/farouqu/fuse-rgb-depth"
+
+- title: Sentiment Analysis
+  description: Machine learning models for sentiment analysis on Twitter140.
+  year: 2024
+  category: NLP, LLMs, Deep Learning
+  link: ''
+  preview: /assets/img/sentiment/thumbnail.png
+  color: "#0096FF"
+  url: "https://github.com/farouqu/sentiment"
+
+- title: Machine Learning Projects
+  description: Collection of ML projects with detailed instructions and reports.
+  year: 2024
+  category: Machine Learning, CV
+  link: ''
+  preview: /assets/img/ml/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/farouqu/machine-learning-projects"
+
 - title: Cosmic Calc
   description: Calculation of cosmic dark matter between galaxies.
   year: 2023
