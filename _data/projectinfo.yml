@@ -17,7 +17,7 @@
   url: "https://bayani.streamlit.app/"
 
 - title: Semantic Seg. w/Fusion
-  description: Fusion of RGB & depth images for semantic segmentation.
+  description: Fusion of RGB & depth images for road scene detection.
   year: 2024
   category: Computer Vision, Deep Learning
   link: ''
