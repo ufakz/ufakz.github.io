@@ -23,7 +23,7 @@
   link: ''
   preview: /assets/img/fusion/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/farouqu/fuse-rgb-depth"
+  url: "https://github.com/ufakz/fuse-rgb-depth"
 
 - title: Sentiment Analysis
   description: Machine learning models for sentiment analysis on Twitter140.
@@ -32,7 +32,7 @@
   link: ''
   preview: /assets/img/sentiment/thumbnail.png
   color: "#0096FF"
-  url: "https://github.com/farouqu/sentiment"
+  url: "https://github.com/ufakz/sentiment"
 
 - title: Machine Learning Projects
   description: Collection of ML projects with detailed instructions and reports.
@@ -41,7 +41,7 @@
   link: ''
   preview: /assets/img/ml/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/farouqu/machine-learning-projects"
+  url: "https://github.com/ufakz/machine-learning-projects"
 
 - title: Cosmic Calc
   description: Calculation of cosmic dark matter between galaxies.
@@ -50,7 +50,7 @@
   link: ''
   preview: /assets/img/cosmicalc/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/farouqu/cosmic-calc"
+  url: "https://github.com/ufakz/cosmic-calc"
 
 - title: Udagram
   description: A cloud-native online image sharing app.
@@ -59,7 +59,7 @@
   link: ''
   preview: /assets/img/udagram/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/farouqu/udagram-project"
+  url: "https://github.com/ufakz/udagram-project"
 
 - title: Afriiconn
   description: A logistics marketplace for truckers and customers.
@@ -77,4 +77,4 @@
   link: ''
   preview: /assets/img/glacier/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/farouqu/glacier-browser"
+  url: "https://github.com/ufakz/glacier-browser"

@@ -1,14 +1,14 @@
 title: Umar Faruk Abdullahi
-domain: farouqu.github.io
+domain: ufakz.github.io
 baseurl: "/"
-url: "https://farouqu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ufakz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   name: Umar Faruk Abdullahi
   links:
     - title: linkedin
       url: https://www.linkedin.com/in/ufakz
     - title: github
-      url: https://github.com/farouqu
+      url: https://github.com/ufakz
     - title: email
       url: mailto:contactumarfaruk@gmail.com
     - title: twitter
