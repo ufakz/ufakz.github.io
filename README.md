@@ -4,7 +4,7 @@
 
 ## About
 
-This website is my personal space on the internet. Here, you'll find information about my projects, blog posts, and professional experience.
+This website is my personal space on the internet. Here, you'll find information about my professional experience, projects and interests.
 
 
 ## Technologies Used
