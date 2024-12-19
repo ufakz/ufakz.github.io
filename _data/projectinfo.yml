@@ -1,10 +1,28 @@
+- title: Machine Learning Projects
+  description: Collection of ML projects with detailed instructions and reports.
+  year: 2024
+  category: Machine Learning, CV
+  link: ''
+  preview: /assets/img/ml/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/ufakz/machine-learning-projects"
+
+- title: RobGarden
+  description: Reactive and predictive control of a differential drive mobile robot in a garden environment.
+  year: 2024
+  category: Robotics, Control
+  link: ''
+  preview: /assets/img/robot_garden/thumbnail.png
+  color: "#FFFFFF"
+  url: "https://github.com/ufakz/robot_garden"
+
 - title: Parkinome
   description: Using omics data in search for Parkinson's disease biomarkers.
   year: 2024
   category: ML, DL, Bioinformatics
   link: ''
   preview: /assets/img/parkinome/thumbnail.png
-  color: "#00FFFF"
+  color: "#004070"
   url: "https://drive.google.com/file/d/1ncHG1qDbgwYZAxP5vrEd_smEXD9zppzY/view?usp=drive_link"
 
 - title: Bayani
@@ -16,32 +34,32 @@
   color: "#6C5DD3"
   url: "https://bayani.streamlit.app/"
 
-- title: Semantic Seg. w/Fusion
-  description: Fusion of RGB & depth images for road scene detection.
+- title: CrowdCount
+  description: A crowd counting system using classical and deep learning (YOLOv8) methods.
   year: 2024
   category: Computer Vision, Deep Learning
   link: ''
-  preview: /assets/img/fusion/thumbnail.png
+  preview: /assets/img/crowd_counting/thumbnail.png
   color: "#FFFFFF"
-  url: "https://github.com/ufakz/fuse-rgb-depth"
+  url: "https://github.com/ufakz/crowd_counting"
 
-- title: Sentiment Analysis
-  description: Machine learning models for sentiment analysis on Twitter140.
-  year: 2024
-  category: NLP, LLMs, Deep Learning
-  link: ''
-  preview: /assets/img/sentiment/thumbnail.png
-  color: "#0096FF"
-  url: "https://github.com/ufakz/sentiment"
+# - title: Semantic Seg. w/Fusion
+#   description: Fusion of RGB & depth images for road scene detection.
+#   year: 2024
+#   category: Computer Vision, Deep Learning
+#   link: ''
+#   preview: /assets/img/fusion/thumbnail.png
+#   color: "#FFFFFF"
+#   url: "https://github.com/ufakz/fuse-rgb-depth"
 
-- title: Machine Learning Projects
-  description: Collection of ML projects with detailed instructions and reports.
-  year: 2024
-  category: Machine Learning, CV
-  link: ''
-  preview: /assets/img/ml/thumbnail.png
-  color: "#FFFFFF"
-  url: "https://github.com/ufakz/machine-learning-projects"
+# - title: Sentiment Analysis
+#   description: Machine learning models for sentiment analysis on Twitter140.
+#   year: 2024
+#   category: NLP, LLMs, Deep Learning
+#   link: ''
+#   preview: /assets/img/sentiment/thumbnail.png
+#   color: "#0096FF"
+#   url: "https://github.com/ufakz/sentiment"
 
 - title: Cosmic Calc
   description: Calculation of cosmic dark matter between galaxies.
